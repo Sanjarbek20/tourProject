@@ -1,0 +1,112 @@
+Loyiha nomi
+Dildora Tour – Onlayn turizm xizmatlarini taqdim etuvchi veb-platforma.
+
+2. Loyihaning maqsadi
+Foydalanuvchilar uchun tur paketlarini ko‘rish, bron qilish va adminlar uchun ularni boshqarish imkoniyatini yaratadigan veb-ilova yaratish.
+
+3. Foydalanuvchi rollari
+
+Roli	Funksiyasi
+Foydalanuvchi paneli (User Panel)
+Ishchi paneli (Staff/Worker Panel – masalan, operatorlar yoki menejerlar uchun)
+Admin paneli (Admin Panel)
+4. Texnologik stek
+
+Qismi	Texnologiya
+Frontend	HTML, CSS, JavaScript, Bootstrap
+Backend	PHP (XAMPP muhitida ishlaydi)
+Ma’lumotlar bazasi	MySQL (phpMyAdmin orqali)
+Server muhiti	XAMPP (Apache + MySQL)
+5. Loyiha arxitekturasi
+bash
+Copy
+Edit
+/dildora-tour
+├── /admin             → Admin panel fayllari
+├── /user              → Foydalanuvchi interfeysi
+├── /includes          → DB ulanish va funksiyalar
+├── /assets            → CSS, JS, rasm fayllar
+├── index.php          → Bosh sahifa
+└── db_config.php      → MySQL ulanish
+6. Ma’lumotlar bazasi dizayni
+Jadval: users
+id (int)
+
+name (varchar)
+
+email (varchar)
+
+password (varchar)
+
+Jadval: tours
+id (int)
+
+title (varchar)
+
+description (text)
+
+price (float)
+
+image (varchar)
+
+location (varchar)
+
+date (date)
+
+Jadval: bookings
+id (int)
+
+user_id (int)
+
+tour_id (int)
+
+booking_date (date)
+
+Jadval: admins
+id (int)
+
+username (varchar)
+
+password (varchar)
+
+7. XAMPP sozlamalari
+XAMPP-ni o‘rnating va ishga tushiring.
+
+Apache va MySQL xizmatlarini yoqing.
+
+htdocs papkasiga dildora-tour fayllarini joylashtiring.
+
+http://localhost/phpmyadmin orqali dildora_tour bazasini yarating.
+
+8. Foydalanuvchi interfeysi funksiyalari
+Tur ro‘yxati
+
+Narx bo‘yicha filtrlash
+
+Bron qilish formasi
+
+Kontakt sahifasi
+
+9. Admin panel funksiyalari
+Admin login
+
+Tur qo‘shish/tahrirlash/o‘chirish
+
+Bronlarni kuzatish
+
+Statistika va hisobot
+
+10. Saytni ishga tushurish
+http://localhost/dildora-tour/index.php – Foydalanuvchi sahifasi
+
+http://localhost/dildora-tour/admin/login.php – Admin panel
+
+11. Xavfsizlik va qo‘shimcha imkoniyatlar
+Parolni sha256 orqali shifrlash
+
+Admin sessiyasi
+
+E-mail orqali tasdiqlash (ixtiyoriy)
+
+Rezerv nusxa olish
+

@@ -1,0 +1,327 @@
+{
+  "site": {
+    "title": "Dildora Tours - Explore Unforgettable Destinations",
+    "description": "Experience authentic culture, breathtaking landscapes, and historical wonders with our expertly crafted tours"
+  },
+  "nav": {
+    "home": "Home",
+    "tours": "Tours",
+    "destinations": "Destinations",
+    "gallery": "Gallery",
+    "about": "About Us",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "bookNow": "Book Now"
+  },
+  "hero": {
+    "title": "Let's discover Uzbekistan <span>together</span>",
+    "subtitle": "Experience authentic culture, breathtaking landscapes, and historical wonders with our expertly crafted tours",
+    "search": {
+      "destination": "Destination",
+      "anyDestination": "Any destination",
+      "date": "Date",
+      "travelers": "Travelers",
+      "person": "1 Person",
+      "people": "{{count}} People",
+      "morePeople": "4+ People",
+      "button": "Search Tours"
+    }
+  },
+  "destinations": {
+    "title": "Popular Destinations",
+    "subtitle": "Explore the most iconic and breathtaking locations across Uzbekistan",
+    "explore": "Explore",
+    "viewAll": "View All Destinations"
+  },
+  "tours": {
+    "title": "Our Tour Packages",
+    "subtitle": "Expertly crafted adventures to experience the best of Uzbekistan",
+    "filters": {
+      "all": "All Tours",
+      "cultural": "Cultural",
+      "historical": "Historical",
+      "adventure": "Adventure",
+      "culinary": "Culinary"
+    },
+    "details": {
+      "days": "{{count}} Days",
+      "cities": "{{count}} Cities",
+      "maxPeople": "Max {{count}} People",
+      "view": "View Details"
+    },
+    "book": "Book This Tour",
+    "viewAll": "View All Tour Packages"
+  },
+  "whyChoose": {
+    "title": "Why Choose Dildora Tours",
+    "subtitle": "We're dedicated to creating unforgettable travel experiences in Uzbekistan",
+    "reasons": {
+      "expertise": {
+        "title": "Local Expertise",
+        "description": "Our guides are locals with deep knowledge of Uzbekistan's history and culture"
+      },
+      "service": {
+        "title": "Personalized Service",
+        "description": "We tailor each tour to your preferences and interests for a unique experience"
+      },
+      "safety": {
+        "title": "Safety & Comfort",
+        "description": "Your safety is our priority with comfortable accommodations and transportation"
+      },
+      "authentic": {
+        "title": "Authentic Experiences",
+        "description": "We connect you with local communities for genuine cultural exchanges"
+      }
+    }
+  },
+  "gallery": {
+    "title": "Explore Our Gallery",
+    "subtitle": "Glimpses of the beauty and wonders awaiting you in Uzbekistan",
+    "filters": {
+      "all": "All",
+      "architecture": "Architecture",
+      "nature": "Nature",
+      "people": "People",
+      "food": "Food"
+    },
+    "viewFull": "View Full Gallery"
+  },
+  "about": {
+    "title": "About Dildora Tours",
+    "description1": "Founded in 2025, Dildora Tours has been sharing the beauty and culture of Uzbekistan with travelers from around the world. Our mission is to provide authentic, immersive experiences that showcase the true essence of our country.",
+    "description2": "With a team of experienced local guides and travel experts, we create journeys that connect travelers with the heart of Uzbekistan – from its ancient Silk Road cities to its breathtaking landscapes and warm, hospitable people.",
+    "stats": {
+      "travelers": {
+        "count": "1000+",
+        "label": "Happy Travelers"
+      },
+      "destinations": {
+        "count": "15+",
+        "label": "Tour Destinations"
+      },
+      "experience": {
+        "count": "1+",
+        "label": "Years Experience"
+      }
+    },
+    "learnMore": "Learn More About Us",
+    "team": {
+      "title": "Meet Our Team",
+      "subtitle": "Passionate professionals dedicated to creating exceptional travel experiences"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Travelers Say",
+    "subtitle": "Hear from those who have explored Uzbekistan with us",
+    "readMore": "Read More Reviews"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Have questions about our tours or want to create a custom itinerary? Get in touch with our team, and we'll be happy to help you plan your perfect Uzbekistan adventure.",
+    "office": {
+      "title": "Our Office",
+      "address": "123 Amir Temur Street, Tashkent, Uzbekistan"
+    },
+    "phone": {
+      "title": "Phone",
+      "number1": "+998 71 123 4567",
+      "number2": "+998 90 123 4567 (WhatsApp)"
+    },
+    "email": {
+      "title": "Email",
+      "address1": "info@dildoratours.com",
+      "address2": "bookings@dildoratours.com"
+    },
+    "hours": {
+      "title": "Working Hours",
+      "weekdays": "Monday - Friday: 9:00 AM - 6:00 PM",
+      "weekend": "Saturday: 10:00 AM - 4:00 PM"
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Your Name *",
+      "email": "Your Email *",
+      "subject": "Subject *",
+      "tour": "Interested Tour (Optional)",
+      "selectTour": "Select a Tour",
+      "silkRoad": "Silk Road Expedition",
+      "cultural": "Cultural Immersion",
+      "desert": "Desert Adventure",
+      "custom": "Custom Tour",
+      "message": "Your Message *",
+      "submit": "Send Message"
+    }
+  },
+  "newsletter": {
+    "title": "Subscribe to Our Newsletter",
+    "description": "Get the latest updates, travel tips, and exclusive offers",
+    "placeholder": "Your email address",
+    "button": "Subscribe Now"
+  },
+  "footer": {
+    "description": "Creating unforgettable travel experiences in Uzbekistan since 2025. Our mission is to share the beauty and culture of our country with travelers from around the world.",
+    "links": {
+      "title": "Quick Links"
+    },
+    "categories": {
+      "title": "Tour Categories",
+      "cultural": "Cultural Tours",
+      "adventure": "Adventure Tours",
+      "historical": "Historical Tours",
+      "culinary": "Culinary Tours",
+      "photography": "Photography Tours",
+      "custom": "Custom Tours"
+    },
+    "contact": {
+      "title": "Contact Us"
+    },
+    "copyright": "© 2025 Dildora Tours. All rights reserved.",
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "sitemap": "Sitemap"
+    }
+  },
+  
+  "bookingForm": {
+    "title": "Book This Tour",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Enter your full name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email address",
+    "phone": "Phone Number",
+    "phonePlaceholder": "Enter your phone number",
+    "numberOfPeople": "Number of People",
+    "maxPeople": "Maximum {{max}} people per booking",
+    "tourDate": "Tour Date",
+    "selectDate": "Select date",
+    "specialRequests": "Special Requests (Optional)",
+    "specialRequestsPlaceholder": "Any special requirements or questions?",
+    "bookNow": "Book Now",
+    "processing": "Processing...",
+    "success": {
+      "title": "Booking Submitted",
+      "description": "Your booking request has been submitted successfully. We'll contact you soon to confirm details."
+    },
+    "error": {
+      "title": "Booking Failed",
+      "description": "Failed to submit your booking. Please try again or contact us directly."
+    },
+    "submitted": {
+      "title": "Booking Request Received",
+      "description": "Thank you for your booking request. Our team will contact you shortly to confirm your tour.",
+      "newBooking": "Make Another Booking"
+    }
+  },
+  
+  "wishlist": {
+    "added": "Added to Wishlist",
+    "removed": "Removed from Wishlist",
+    "tourAdded": "{{name}} has been added to your wishlist",
+    "tourRemoved": "{{name}} has been removed from your wishlist",
+    "destinationAdded": "{{name}} has been added to your wishlist",
+    "destinationRemoved": "{{name}} has been removed from your wishlist",
+    "addToWishlist": "Add to Wishlist",
+    "removeFromWishlist": "Remove from Wishlist",
+    "yourWishlist": "Your Wishlist",
+    "savedTours": "Saved Tours",
+    "savedDestinations": "Saved Destinations",
+    "noToursYet": "No tours saved yet",
+    "noDestinationsYet": "No destinations saved yet",
+    "browseToursAndSave": "Browse our tour packages and save your favorites",
+    "browseDestinationsAndSave": "Browse our destinations and save your favorites",
+    "empty": "Your wishlist is empty",
+    "emptyDesc": "You haven't added any items to your wishlist yet."
+  },
+  
+  "destinations": {
+    "title": "Popular Destinations",
+    "subtitle": "Explore the most iconic and breathtaking locations across Uzbekistan",
+    "explore": "Explore",
+    "viewAll": "View All Destinations",
+    "notFound": "Destination Not Found",
+    "notFoundDesc": "The requested destination could not be found.",
+    "detail": {
+      "information": "Information",
+      "videos": "Videos",
+      "gallery": "Gallery",
+      "history": "History",
+      "attractions": "Attractions",
+      "culture": "Culture & Traditions",
+      "noVideos": "No videos available for this destination."
+    }
+  },
+  
+  "worker": {
+    "dashboard": "Dashboard",
+    "bookings": "Bookings",
+    "destinations": "Destinations",
+    "profile": "Profile",
+    "welcome": "Welcome",
+    "statistics": {
+      "title": "Your Statistics",
+      "todayBookings": "Today's Bookings",
+      "completedServices": "Completed Services",
+      "overallRating": "Overall Rating"
+    },
+    "bookingList": {
+      "title": "Your Assigned Bookings",
+      "id": "ID",
+      "tourName": "Tour",
+      "clientName": "Client",
+      "date": "Date",
+      "status": "Status",
+      "actions": "Actions",
+      "viewDetails": "View Details",
+      "noBookings": "No bookings assigned yet",
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    },
+    "bookingDetail": {
+      "title": "Booking Details",
+      "bookingId": "Booking ID",
+      "clientInfo": "Client Information",
+      "clientName": "Name",
+      "clientEmail": "Email",
+      "clientPhone": "Phone",
+      "tourDetails": "Tour Details",
+      "tourName": "Tour Name",
+      "tourDate": "Tour Date",
+      "people": "Number of People",
+      "status": "Status",
+      "paymentStatus": "Payment Status",
+      "notes": "Notes",
+      "addNote": "Add Note",
+      "save": "Save Note",
+      "updateStatus": "Update Status",
+      "actions": {
+        "start": "Start Service",
+        "complete": "Complete Service",
+        "cancel": "Cancel Service"
+      },
+      "payments": {
+        "paid": "Paid",
+        "partiallyPaid": "Partially Paid",
+        "notPaid": "Not Paid",
+        "depositPaid": "Deposit Paid",
+        "fullPayment": "Full Payment"
+      },
+      "specialRequests": "Special Requests",
+      "noRequests": "No special requests",
+      "back": "Back to Bookings"
+    },
+    "destinations": {
+      "title": "Destinations Management",
+      "activeBookings": "Active Bookings",
+      "pendingBookings": "Pending Bookings",
+      "totalBookings": "Total Bookings",
+      "viewDetails": "View Details",
+      "bookings": "Bookings",
+      "rating": "Rating",
+      "statsTitle": "Destination Statistics"
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "site": {
+    "title": "Dildora Tours - Unutilmas yo'nalishlarni kashf eting",
+    "description": "Bizning professionallar tomonidan tayyorlangan turlar bilan autentik madaniyat, ajoyib manzaralar va tarixiy ajoyibotlarni kashf eting"
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "tours": "Turlar",
+    "destinations": "Yo'nalishlar",
+    "gallery": "Galereya",
+    "about": "Biz haqimizda",
+    "testimonials": "Mijozlar fikri",
+    "contact": "Aloqa",
+    "bookNow": "Hozir bron qiling"
+  },
+  "hero": {
+    "title": "O'zbekistonni <span>birga</span> kashf qilaylik",
+    "subtitle": "Bizning professionallar tomonidan tayyorlangan turlar bilan autentik madaniyat, ajoyib manzaralar va tarixiy ajoyibotlarni kashf eting",
+    "search": {
+      "destination": "Yo'nalish",
+      "anyDestination": "Istalgan yo'nalish",
+      "date": "Sana",
+      "travelers": "Sayohatchilar",
+      "person": "1 Kishi",
+      "people": "{{count}} Kishi",
+      "morePeople": "4+ Kishi",
+      "button": "Turlarni qidirish"
+    }
+  },
+  "destinations": {
+    "title": "Mashhur yo'nalishlar",
+    "subtitle": "O'zbekistonning eng mashhur va ajoyib joylarini o'rganing",
+    "explore": "Ko'rib chiqish",
+    "viewAll": "Barcha yo'nalishlarni ko'rish"
+  },
+  "tours": {
+    "title": "Bizning tur paketlarimiz",
+    "subtitle": "O'zbekistonning eng yaxshi joylarini ko'rish uchun professionallar tomonidan tayyorlangan sarguzashtlar",
+    "filters": {
+      "all": "Barcha turlar",
+      "cultural": "Madaniy",
+      "historical": "Tarixiy",
+      "adventure": "Sarguzasht",
+      "culinary": "Kulinariya"
+    },
+    "details": {
+      "days": "{{count}} kun",
+      "cities": "{{count}} shahar",
+      "maxPeople": "Maksimal {{count}} kishi",
+      "view": "Batafsil ma'lumot"
+    },
+    "book": "Bu turni bron qiling",
+    "viewAll": "Barcha tur paketlarni ko'rish"
+  },
+  "whyChoose": {
+    "title": "Nima uchun Dildora Tours",
+    "subtitle": "Biz O'zbekistonda unutilmas sayohat tajribalarini yaratishga bag'ishlanganmiz",
+    "reasons": {
+      "expertise": {
+        "title": "Mahalliy ekspertiza",
+        "description": "Bizning gidlarimiz O'zbekiston tarixi va madaniyatini chuqur biladigan mahalliy mutaxassislardir"
+      },
+      "service": {
+        "title": "Shaxsiylashtirilgan xizmat",
+        "description": "Har bir turni sizning istaklaringiz va qiziqishlaringizga moslashtiramiz, bu noyob tajribani ta'minlaydi"
+      },
+      "safety": {
+        "title": "Xavfsizlik va qulaylik",
+        "description": "Sizning xavfsizligingiz bizning ustuvor vazifamizdir, qulay turar joy va transport bilan"
+      },
+      "authentic": {
+        "title": "Autentik tajribalar",
+        "description": "Biz sizni haqiqiy madaniy almashish uchun mahalliy jamoalar bilan bog'laymiz"
+      }
+    }
+  },
+  "gallery": {
+    "title": "Bizning galereyamizni ko'ring",
+    "subtitle": "O'zbekistonda sizni kutayotgan go'zallik va mo'jizalarning bir ko'rinishi",
+    "filters": {
+      "all": "Barchasi",
+      "architecture": "Arxitektura",
+      "nature": "Tabiat",
+      "people": "Insonlar",
+      "food": "Ovqat"
+    },
+    "viewFull": "To'liq galereyani ko'rish"
+  },
+  "about": {
+    "title": "Dildora Tours haqida",
+    "description1": "2025 yilda tashkil etilgan Dildora Tours dunyo bo'ylab sayohatchilar bilan O'zbekistonning go'zalligi va madaniyatini ulashmoqda. Bizning vazifamiz - mamlakatimizning haqiqiy mohiyatini ko'rsatadigan autentik, immersiv tajribalar taqdim etish.",
+    "description2": "Tajribali mahalliy gidlar va sayohat ekspertlari jamoasi bilan biz sayohatchilarni O'zbekiston qalbi bilan bog'laydigan sayohatlarni yaratamiz - uning qadimgi Ipak yo'li shaharlaridan tortib ajoyib manzaralari va samimiy, mehmondo'st odamlariga qadar.",
+    "stats": {
+      "travelers": {
+        "count": "1000+",
+        "label": "Baxtli sayohatchilar"
+      },
+      "destinations": {
+        "count": "15+",
+        "label": "Tur yo'nalishlar"
+      },
+      "experience": {
+        "count": "1+",
+        "label": "Yillik tajriba"
+      }
+    },
+    "learnMore": "Biz haqimizda ko'proq bilish",
+    "team": {
+      "title": "Bizning jamoa bilan tanishing",
+      "subtitle": "Ajoyib sayohat tajribalarini yaratishga bag'ishlangan fidoyi mutaxassislar"
+    }
+  },
+  "testimonials": {
+    "title": "Bizning mijozlar nima deyishadi",
+    "subtitle": "Biz bilan O'zbekistonni kashf etgan odamlarning fikrlarini eshiting",
+    "readMore": "Ko'proq sharhlarni o'qing"
+  },
+  "contact": {
+    "title": "Biz bilan bog'laning",
+    "description": "Bizning turlarimiz haqida savollaringiz bormi yoki shaxsiy marshrut yaratmoqchimisiz? Jamoamiz bilan bog'laning, va biz sizning mukammal O'zbekiston sarguzashtingizni rejalashtirish uchun yordam berishdan xursand bo'lamiz.",
+    "office": {
+      "title": "Bizning ofis",
+      "address": "123 Amir Temur ko'chasi, Toshkent, O'zbekiston"
+    },
+    "phone": {
+      "title": "Telefon",
+      "number1": "+998 71 123 4567",
+      "number2": "+998 90 123 4567 (WhatsApp)"
+    },
+    "email": {
+      "title": "Elektron pochta",
+      "address1": "info@dildoratours.com",
+      "address2": "bookings@dildoratours.com"
+    },
+    "hours": {
+      "title": "Ish soatlari",
+      "weekdays": "Dushanba - Juma: 9:00 - 18:00",
+      "weekend": "Shanba: 10:00 - 16:00"
+    },
+    "form": {
+      "title": "Bizga xabar yuboring",
+      "name": "Ismingiz *",
+      "email": "Elektron pochtangiz *",
+      "subject": "Mavzu *",
+      "tour": "Qiziqarli tur (ixtiyoriy)",
+      "selectTour": "Turni tanlang",
+      "silkRoad": "Ipak yo'li ekspeditsiyasi",
+      "cultural": "Madaniy immersiya",
+      "desert": "Cho'l sarguzashti",
+      "custom": "Shaxsiy tur",
+      "message": "Xabaringiz *",
+      "submit": "Xabar yuborish"
+    }
+  },
+  "newsletter": {
+    "title": "Bizning yangiliklar ro'yxatimizga obuna bo'ling",
+    "description": "Eng so'nggi yangiliklar, sayohat maslahatlari va maxsus takliflarni oling",
+    "placeholder": "Elektron pochta manzilingiz",
+    "button": "Hozir obuna bo'ling"
+  },
+  "footer": {
+    "description": "2010 yildan beri O'zbekistonda unutilmas sayohat tajribalarini yaratish. Bizning vazifamiz - mamlakatimizning go'zalligi va madaniyatini dunyo bo'ylab sayohatchilar bilan baham ko'rish.",
+    "links": {
+      "title": "Tezkor havolalar"
+    },
+    "categories": {
+      "title": "Tur kategoriyalari",
+      "cultural": "Madaniy turlar",
+      "adventure": "Sarguzasht turlar",
+      "historical": "Tarixiy turlar",
+      "culinary": "Kulinariya turlari",
+      "photography": "Fotosurat turlari",
+      "custom": "Shaxsiy turlar"
+    },
+    "contact": {
+      "title": "Biz bilan bog'laning"
+    },
+    "copyright": "© 2025 Dildora Tours. Barcha huquqlar himoyalangan.",
+    "legal": {
+      "privacy": "Maxfiylik siyosati",
+      "terms": "Foydalanish shartlari",
+      "sitemap": "Sayt xaritasi"
+    }
+  },
+  
+  "bookingForm": {
+    "title": "Bu turni bron qiling",
+    "fullName": "To'liq ism",
+    "fullNamePlaceholder": "To'liq ismingizni kiriting",
+    "email": "Elektron pochta",
+    "emailPlaceholder": "Elektron pochta manzilingizni kiriting",
+    "phone": "Telefon raqami",
+    "phonePlaceholder": "Telefon raqamingizni kiriting",
+    "numberOfPeople": "Odamlar soni",
+    "maxPeople": "Har bir bron uchun maksimal {{max}} kishi",
+    "tourDate": "Tur sanasi",
+    "selectDate": "Sanani tanlang",
+    "specialRequests": "Maxsus so'rovlar (ixtiyoriy)",
+    "specialRequestsPlaceholder": "Maxsus talablar yoki savollar bormi?",
+    "bookNow": "Hozir bron qiling",
+    "processing": "Jarayonda...",
+    "success": {
+      "title": "Bron qilish so'rovi yuborildi",
+      "description": "Sizning bron qilish so'rovingiz muvaffaqiyatli yuborildi. Tafsilotlarni tasdiqlash uchun tez orada siz bilan bog'lanamiz."
+    },
+    "error": {
+      "title": "Bron qilish muvaffaqiyatsiz",
+      "description": "Bron qilish so'rovini yuborish muvaffaqiyatsiz tugadi. Iltimos, qaytadan urinib ko'ring yoki biz bilan to'g'ridan-to'g'ri bog'laning."
+    },
+    "submitted": {
+      "title": "Bron qilish so'rovi qabul qilindi",
+      "description": "Bron qilish so'rovingiz uchun rahmat. Turingizni tasdiqlash uchun jamoamiz tez orada siz bilan bog'lanadi.",
+      "newBooking": "Yangi bron qilish"
+    }
+  },
+  
+  "wishlist": {
+    "added": "Sevimlilar ro'yxatiga qo'shildi",
+    "removed": "Sevimlilar ro'yxatidan olib tashlandi",
+    "tourAdded": "{{name}} sevimlilar ro'yxatiga qo'shildi",
+    "tourRemoved": "{{name}} sevimlilar ro'yxatidan olib tashlandi",
+    "destinationAdded": "{{name}} sevimlilar ro'yxatiga qo'shildi",
+    "destinationRemoved": "{{name}} sevimlilar ro'yxatidan olib tashlandi",
+    "addToWishlist": "Sevimlilar ro'yxatiga qo'shish",
+    "removeFromWishlist": "Sevimlilar ro'yxatidan olib tashlash",
+    "yourWishlist": "Sevimlilar ro'yxatingiz",
+    "savedTours": "Saqlangan turlar",
+    "savedDestinations": "Saqlangan yo'nalishlar",
+    "noToursYet": "Hali saqlangan turlar yo'q",
+    "noDestinationsYet": "Hali saqlangan yo'nalishlar yo'q",
+    "browseToursAndSave": "Turlarimizni ko'ring va sevimlilaringizni saqlang",
+    "browseDestinationsAndSave": "Yo'nalishlarni ko'ring va sevimlilaringizni saqlang",
+    "empty": "Sevimlilar ro'yxatingiz bo'sh",
+    "emptyDesc": "Siz hali sevimlilar ro'yxatingizga hech narsa qo'shmagansiz."
+  },
+  
+  "destinations": {
+    "title": "Mashhur yo'nalishlar",
+    "subtitle": "O'zbekistonning eng mashhur va ajoyib joylarini o'rganing",
+    "explore": "Ko'rib chiqish",
+    "viewAll": "Barcha yo'nalishlarni ko'rish",
+    "notFound": "Yo'nalish topilmadi",
+    "notFoundDesc": "So'ralgan yo'nalish topilmadi.",
+    "detail": {
+      "information": "Ma'lumot",
+      "videos": "Videolar",
+      "gallery": "Galereya",
+      "history": "Tarix",
+      "attractions": "Diqqatga sazovor joylar",
+      "culture": "Madaniyat va an'analar",
+      "noVideos": "Bu yo'nalish uchun video mavjud emas."
+    }
+  },
+  
+  "worker": {
+    "dashboard": "Boshqaruv paneli",
+    "bookings": "Buyurtmalar",
+    "destinations": "Yo'nalishlar",
+    "profile": "Profil",
+    "welcome": "Xush kelibsiz",
+    "statistics": {
+      "title": "Sizning statistikangiz",
+      "todayBookings": "Bugungi buyurtmalar",
+      "completedServices": "Tugatilgan xizmatlar",
+      "overallRating": "Umumiy reyting"
+    },
+    "bookingList": {
+      "title": "Sizga tayinlangan buyurtmalar",
+      "id": "ID",
+      "tourName": "Tur",
+      "clientName": "Mijoz",
+      "date": "Sana",
+      "status": "Holati",
+      "actions": "Amallar",
+      "viewDetails": "Tafsilotlarni ko'rish",
+      "noBookings": "Hali buyurtmalar tayinlanmagan",
+      "pending": "Kutilmoqda",
+      "confirmed": "Tasdiqlangan",
+      "inProgress": "Jarayonda",
+      "completed": "Tugatilgan",
+      "cancelled": "Bekor qilingan"
+    },
+    "bookingDetail": {
+      "title": "Buyurtma tafsilotlari",
+      "bookingId": "Buyurtma ID",
+      "clientInfo": "Mijoz ma'lumotlari",
+      "clientName": "Ism",
+      "clientEmail": "Email",
+      "clientPhone": "Telefon",
+      "tourDetails": "Tur tafsilotlari",
+      "tourName": "Tur nomi",
+      "tourDate": "Tur sanasi",
+      "people": "Odamlar soni",
+      "status": "Holati",
+      "paymentStatus": "To'lov holati",
+      "notes": "Qaydlar",
+      "addNote": "Qayd qo'shish",
+      "save": "Qaydni saqlash",
+      "updateStatus": "Holatni yangilash",
+      "actions": {
+        "start": "Xizmatni boshlash",
+        "complete": "Xizmatni tugatish",
+        "cancel": "Xizmatni bekor qilish"
+      },
+      "payments": {
+        "paid": "To'langan",
+        "partiallyPaid": "Qisman to'langan",
+        "notPaid": "To'lanmagan",
+        "depositPaid": "Boshlang'ich to'lov to'langan",
+        "fullPayment": "To'liq to'lov"
+      },
+      "specialRequests": "Maxsus so'rovlar",
+      "noRequests": "Maxsus so'rovlar yo'q",
+      "back": "Buyurtmalarga qaytish"
+    },
+    "destinations": {
+      "title": "Yo'nalishlar boshqaruvi",
+      "activeBookings": "Faol buyurtmalar",
+      "pendingBookings": "Kutilayotgan buyurtmalar",
+      "totalBookings": "Jami buyurtmalar",
+      "viewDetails": "Tafsilotlarni ko'rish",
+      "bookings": "Buyurtmalar",
+      "rating": "Reyting",
+      "statsTitle": "Yo'nalish statistikasi"
+    }
+  }
+}
