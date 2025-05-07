@@ -32,14 +32,14 @@ const Home = () => {
       }
     }
   }, [location]);
-
+// shuni joy 6 qatorga joylashtirsa gallery ko'rinadi <ImageGallery />
   return (
     <>
       <HeroSection />
       <FeaturedDestinations />
       <TourPackages />
       <WhyChooseUs />
-      <ImageGallery />
+      
       <AboutUs />
       <Testimonials />
       <Contact />

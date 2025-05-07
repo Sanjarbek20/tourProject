@@ -61,6 +61,7 @@ function MainRouter() {
           <Route path="/wishlist" component={WishlistPage} />
           <Route path="/dashboard" component={UserDashboard} />
           <Route path="/gallery" component={Gallery} />
+          
           <Route path="/" component={Home} />
           <Route component={NotFound} />
         </Switch>
@@ -117,6 +118,8 @@ function AdminRouter() {
           </ProtectedRoute>
         )}
       </Route>
+      
+
     </Switch>
   );
 }
